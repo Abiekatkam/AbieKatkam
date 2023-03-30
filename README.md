@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Katkam</h1>
 <h3 align="center" style="width:300px">I am pursuing to be become a web developer looking to learn new things and improve every day. I want to specialize in full stack web development.</h3>
 
-<p align="center">How to reach me **abhishekkatkam145@gmail.com** </p>
+<p align="center">How to reach me </p> **abhishekkatkam145@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
