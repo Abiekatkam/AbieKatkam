@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abhishek Katkam</h1>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=40&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Abhishek+ツ;I'm+Web+Developer;I'm+from+India;Welcome+to+my+zone!+ツ)
 <h3 align="center" style="width:300px">I am pursuing to be become a web developer looking to learn new things and improve every day. I want to specialize in full stack web development.</h3>
-
-<p align="center">How to reach me </p> **abhishekkatkam145@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
