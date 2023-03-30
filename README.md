@@ -14,10 +14,10 @@
 <div align="center">
   <br>
   <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AbieKatkam&show_icons=true&theme=transparent&count_private=true&bg_color=transparent&hide_border=false&border_color=aed9e0&title_color=aed9e0&text_color=aed9e0"/>
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AbieKatkam&show_icons=true&theme=transparent&count_private=true&bg_color=000000&hide_border=false&border_color=aed9e0&title_color=aed9e0&text_color=aed9e0"/>
   </a>
   <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbieKatkam&langs_count=8&count_private=false&layout=compact&theme=transparent&bg_color=transparent&hide_border=false&border_color=aed9e0&title_color=aed9e0&text_color=aed9e0"/>
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbieKatkam&langs_count=8&count_private=false&layout=compact&theme=transparent&bg_color=000000&hide_border=false&border_color=aed9e0&title_color=aed9e0&text_color=aed9e0"/>
   </a>
 </div> 
 
