@@ -1,7 +1,13 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Abhishek;I'm+from+India;I'm+a+Web+Developer;Welcome+to+my+zone!+ツ)
-<h3 align="center">I am pursuing to be become a web developer looking to learn new things and improve every day. I want to specialize in full stack web development.</h3>
+<h1 align="center">Hi 👋, I'm Abhishek Katkam</h1>
+<h3 align="center" style="width:300px"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abiekatkam&label=Profile%20views&color=0e75b6&style=flat" alt="abiekatkam" /> </p>
+
+- 🌱 I’m currently learning **UI /UX designing**
+
+- 💬 Ask me about **react , MERN**
+
+- 📫 How to reach me **abhishekkatkam145@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
