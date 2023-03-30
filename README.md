@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cae9ff&size=40&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Abhishek+ツ;I'm+Web+Developer!;I'm+from+India;Welcome+to+my+zone!+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0054&size=45&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Abhishek+ツ;I'm+Web+Developer!;I'm+from+India;Welcome+to+my+zone!+ツ)
 <h3 align="center" style="width:300px">I am pursuing to be become a web developer looking to learn new things and improve every day. I want to specialize in full stack web development.</h3>
 
 <h3 align="center">Connect with me:</h3>
@@ -21,6 +21,6 @@
 </div> 
 
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cae9ff&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0054&height=120&section=footer"/>
 </a>
 
