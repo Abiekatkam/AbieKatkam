@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0054&size=45&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Abhishek+ツ;I'm+Web+Developer!;I'm+from+India;Welcome+to+my+zone!+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=aed9e0&size=45&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Abhishek+ツ;I'm+Web+Developer!;I'm+from+India;Welcome+to+my+zone!+ツ)
 <h3 align="center" style="width:300px">I am pursuing to be become a web developer looking to learn new things and improve every day. I want to specialize in full stack web development.</h3>
 
 <h3 align="center">Connect with me:</h3>
@@ -13,7 +13,7 @@
 <div align="center">
   <br>
   <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AbieKatkam&show_icons=true&theme=vue-dark&count_private=true&bg_color=ff0054&hide_border=true"/>
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AbieKatkam&show_icons=true&theme=transparent&count_private=true&bg_color=aed9e0&hide_border=false&border_color=aed9e0&title_color=aed9e0&text_color=aed9e0"/>
   </a>
   <a href="#">
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbieKatkam&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=cae9ff&hide_border=true"/>
@@ -21,6 +21,6 @@
 </div> 
 
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0054&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=aed9e0&height=120&section=footer"/>
 </a>
 
