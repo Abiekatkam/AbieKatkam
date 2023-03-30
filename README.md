@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Katkam</h1>
-<h3 align="center" style="width:300px"></h3>
+<h3 align="center" style="width:300px">I am pursuing to be become a web developer looking to learn new things and improve every day. I want to specialize in full stack web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abiekatkam&label=Profile%20views&color=0e75b6&style=flat" alt="abiekatkam" /> </p>
 
