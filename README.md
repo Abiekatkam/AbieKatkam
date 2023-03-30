@@ -1,4 +1,4 @@
-[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://abiekatkam.io)
+<img src="https://github.com/AbieKatkam/full-stack-development.gif" alt="banner" width="100"></img>
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=aed9e0&size=45&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Abhishek+ツ;I'm+Web+Developer!;I'm+from+India;Welcome+to+my+zone!+ツ)
 <h3 align="center" style="width:300px">I am pursuing to be become a web developer looking to learn new things and improve every day. I want to specialize in full stack web development.</h3>
 
