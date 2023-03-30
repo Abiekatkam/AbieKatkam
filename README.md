@@ -13,14 +13,12 @@
 <div align="center">
   <br>
   <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AbieKatkam&show_icons=true&theme=vue-dark&count_private=true&bg_color=cae9ff&hide_border=true"/>
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AbieKatkam&show_icons=true&theme=vue-dark&count_private=true&bg_color=ff0054&hide_border=true"/>
   </a>
   <a href="#">
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbieKatkam&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=cae9ff&hide_border=true"/>
   </a>
 </div> 
-
-![Snake animation](https://github.com/AbieKatkam/AbieKatkam/blob/output/github-contribution-grid-snake.svg)
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0054&height=120&section=footer"/>
