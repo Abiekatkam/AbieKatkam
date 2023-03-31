@@ -4,7 +4,7 @@
 
 <br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=aed9e0&size=45&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Abhishek+ツ;I'm+Web+Developer!;I'm+from+India;Welcome+to+my+hub!+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=aed9e0&size=45&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Abhishek+ツ;I'm+a+Web+Developer!;I'm+from+India;Welcome+to+my+hub!+ツ)
 <h3 align="center">I am pursuing to be become a web developer looking to learn new things and improve every day. I want to specialize in full stack web development.</h3>
 
 <h3 align="center">Connect with me:</h3>
