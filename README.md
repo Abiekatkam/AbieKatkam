@@ -4,20 +4,73 @@
 
 <br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=aed9e0&size=45&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Abhishek+ツ;I'm+a+Web+Developer!;I'm+from+India;Welcome+to+my+hub!+ツ)
-<h3 align="center">I am pursuing to be become a web developer looking to learn new things and improve every day. I want to specialize in full stack web development.</h3>
+<h1 align="center">Hi 👋, I'm Abhishek Katkam</h1>
+<h3 align="center">Software Engineer | Full Stack (MERN + .NET) | AI & RAG Systems | Microservices | AWS</h3>
 
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-katkam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-katkam-988744231/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_abie._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_abie._/" height="30" width="40" /></a>
+Building scalable, intelligent, and real-time applications with a focus on performance, architecture, and user experience.
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
+## 🚀 About Me
+
+- 💼 Software Engineer @ Prudence Analytics  
+- 🧠 Building **AI-powered systems (RAG, LLM integrations, NLP pipelines)**  
+- ⚙️ Strong in **Microservices, System Design, and Distributed Systems**  
+- 🌐 Experienced in **Full Stack Development (React, Next.js, Node.js, ASP.NET Core)**  
+- ⚡ Focused on **performance optimization, real-time systems, and scalable architecture**  
+- 🚧 Currently working on **RAG + MCP based AI Chat Application**  
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Frontend
+React.js • Next.js • TypeScript • Tailwind CSS • Redux • Zustand  
+
+### ⚙️ Backend
+Node.js • Express.js • NestJS • ASP.NET Core • REST APIs • GraphQL • Microservices  
+
+### 🗄️ Databases
+PostgreSQL • MongoDB • SQL Server • Redis  
+
+### ☁️ Cloud & DevOps
+AWS • Supabase • Docker • CI/CD • BullMQ  
+
+### 🤖 AI & Systems
+RAG • LLM Integrations • Hugging Face • Ollama • NLP Pipelines  
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abiekatkam&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abiekatkam&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/abhishek-katkam/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/_abie._/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## ⚡ Philosophy
+
+> Build systems that scale.  
+> Design for real users.  
+> Integrate intelligence where it matters.
+
+---
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=aed9e0&height=120&section=footer"/>
 </a>
-
